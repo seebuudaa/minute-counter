@@ -2,7 +2,7 @@
 {
     "manifest_version": 2,
   
-    "name": "Launcher",
+    "name": "Umuzi Tools",
     "description": "Umuzi Minutes Timer - Counting time spent on meetings",
     "version": "1.0.0",
     "icons": { "128": "img/image110px.png" },
